@@ -13,7 +13,7 @@ def main() -> int:
 
 
 def deploy(f):
-    print(f"Deploying flow {flow}")
+    print(f"Deploying flow {flow.name}")
 
 
 if __name__ == "__main__":
